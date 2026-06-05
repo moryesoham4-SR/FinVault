@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+pillow
+pytesseract
+supabase==2.3.4
+httpx==0.24.1
+gotrue==1.3.0
+postgrest==0.13.2
+realtime==1.0.2
+storage3==0.6.1
