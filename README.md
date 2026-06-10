@@ -7,7 +7,7 @@ The application combines financial analytics, intelligent forecasting, gamificat
 
 Live Demo
 
-https://finvault-muqdepzyhrryh8qnegkebv.streamlit.app/
+https://finvault-8wt6orl3ftcxzmb5j6bwta.streamlit.app/
 
 Key Features
 User Authentication
