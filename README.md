@@ -155,8 +155,7 @@ Gamification System
 
 Interactive Dashboard
 
-Author
-
-Developed as a Full-Stack Financial Analytics and Personal Finance Management Project using Python, Streamlit, Data Analytics, and Cloud Database Technologies.
+Author:
+Created by Soham as a personal finance and financial analytics project.
 
 ⭐ If you found this project useful, consider giving it a star on GitHub! ⭐
