@@ -123,12 +123,18 @@ Simplify financial planning
 Support investment decision-making
 Screenshots
 
-<img width="1877" height="798" alt="image" src="https://github.com/user-attachments/assets/2887677c-be0f-4d50-b888-3cc5a3dccddf" />
-<img width="1506" height="802" alt="image" src="https://github.com/user-attachments/assets/709af1de-6977-4439-b94a-0f70ec51d812" />
-<img width="1528" height="750" alt="image" src="https://github.com/user-attachments/assets/0fa63537-8def-460c-abc2-f452d5f57c27" />
-<img width="1541" height="882" alt="image" src="https://github.com/user-attachments/assets/41a355c8-885e-4402-92c5-f43530be1602" />
-<img width="1566" height="840" alt="image" src="https://github.com/user-attachments/assets/3ab5074c-70bf-4858-8620-ef6c1bb9ffb2" />
-
+<img width="1917" height="893" alt="image" src="https://github.com/user-attachments/assets/6141d818-d104-419b-9247-6e53352912e4" />
+<img width="1918" height="880" alt="image" src="https://github.com/user-attachments/assets/b4c23007-3239-4557-89f5-ad8bcdb60eb6" />
+<img width="1918" height="906" alt="image" src="https://github.com/user-attachments/assets/cfca48aa-2752-4a6b-a47e-8ae9996d74cb" />
+<img width="1918" height="871" alt="image" src="https://github.com/user-attachments/assets/92bb4383-0d72-47e0-bdd6-ac769689e658" />
+<img width="1918" height="881" alt="image" src="https://github.com/user-attachments/assets/852b07cd-973d-48fb-b3f5-6a229487461e" />
+<img width="1918" height="835" alt="image" src="https://github.com/user-attachments/assets/f1eedb9b-cbe6-4ebd-83c6-024ba1435624" />
+<img width="1918" height="837" alt="image" src="https://github.com/user-attachments/assets/04458941-38ac-4499-ad0b-b9db867ea7ce" />
+<img width="1918" height="881" alt="image" src="https://github.com/user-attachments/assets/ce68cfb1-560e-4417-9ca4-210ad977c5c7" />
+<img width="1918" height="883" alt="image" src="https://github.com/user-attachments/assets/8e4f080a-f8a8-4903-84ab-6e4ee76188fa" />
+<img width="1918" height="900" alt="image" src="https://github.com/user-attachments/assets/4b3b7f46-5041-4b49-af95-9a66df021a01" />
+<img width="1913" height="908" alt="image" src="https://github.com/user-attachments/assets/a5d6d405-9cc4-48d8-9190-f6eb34df445a" />
+<img width="1918" height="910" alt="image" src="https://github.com/user-attachments/assets/46b75080-6b85-4b9f-85b7-5d716fee454d" />
 
 
 Project Highlights
