@@ -123,18 +123,17 @@ Simplify financial planning
 Support investment decision-making
 Screenshots
 
-<img width="1917" height="893" alt="image" src="https://github.com/user-attachments/assets/6141d818-d104-419b-9247-6e53352912e4" />
-<img width="1918" height="880" alt="image" src="https://github.com/user-attachments/assets/b4c23007-3239-4557-89f5-ad8bcdb60eb6" />
-<img width="1918" height="906" alt="image" src="https://github.com/user-attachments/assets/cfca48aa-2752-4a6b-a47e-8ae9996d74cb" />
-<img width="1918" height="871" alt="image" src="https://github.com/user-attachments/assets/92bb4383-0d72-47e0-bdd6-ac769689e658" />
-<img width="1918" height="881" alt="image" src="https://github.com/user-attachments/assets/852b07cd-973d-48fb-b3f5-6a229487461e" />
-<img width="1918" height="835" alt="image" src="https://github.com/user-attachments/assets/f1eedb9b-cbe6-4ebd-83c6-024ba1435624" />
-<img width="1918" height="837" alt="image" src="https://github.com/user-attachments/assets/04458941-38ac-4499-ad0b-b9db867ea7ce" />
-<img width="1918" height="881" alt="image" src="https://github.com/user-attachments/assets/ce68cfb1-560e-4417-9ca4-210ad977c5c7" />
-<img width="1918" height="883" alt="image" src="https://github.com/user-attachments/assets/8e4f080a-f8a8-4903-84ab-6e4ee76188fa" />
-<img width="1918" height="900" alt="image" src="https://github.com/user-attachments/assets/4b3b7f46-5041-4b49-af95-9a66df021a01" />
-<img width="1913" height="908" alt="image" src="https://github.com/user-attachments/assets/a5d6d405-9cc4-48d8-9190-f6eb34df445a" />
-<img width="1918" height="910" alt="image" src="https://github.com/user-attachments/assets/46b75080-6b85-4b9f-85b7-5d716fee454d" />
+<img width="1918" height="911" alt="image" src="https://github.com/user-attachments/assets/18eb3b77-3ce9-41ac-9560-7002ef26e9b8" />
+<img width="1912" height="910" alt="image" src="https://github.com/user-attachments/assets/aab1fb81-315a-4230-875c-8c01feae46e1" />
+<img width="1918" height="912" alt="image" src="https://github.com/user-attachments/assets/1c7d8608-4a4a-4f33-84d5-a24aff2e8789" />
+<img width="1918" height="918" alt="image" src="https://github.com/user-attachments/assets/bed8c8fb-4966-4f7d-8876-8f3d4d0fe1e1" />
+<img width="1918" height="911" alt="image" src="https://github.com/user-attachments/assets/14718ba9-b4a6-4d18-aaf5-81c8f4a3fd40" />
+<img width="1918" height="917" alt="image" src="https://github.com/user-attachments/assets/a72333f9-b92a-4d1d-91b8-3c400fc39817" />
+<img width="1912" height="900" alt="image" src="https://github.com/user-attachments/assets/d49748fb-d761-4958-a63b-b3b76df73dc7" />
+<img width="1918" height="902" alt="image" src="https://github.com/user-attachments/assets/6c42e2cc-9f0c-4b4f-a6ef-901d77b1623a" />
+<img width="1918" height="908" alt="image" src="https://github.com/user-attachments/assets/e91c72d7-5efe-4ae3-b550-f96f521e3116" />
+<img width="1918" height="921" alt="image" src="https://github.com/user-attachments/assets/9f8bb51d-d54c-4f25-9406-bf792fc13dde" />
+
 
 
 Project Highlights
